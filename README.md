@@ -1,16 +1,17 @@
 # commissioncalculator
 
-A new Flutter project.
+It is a simple application for calculating commissions. It basically helps you to understand the structure of the flutter applications in general.
 
-## Getting Started
+You can run and edit the dart code or contribute to them using Gitpod.io, a free online development environment, with a single click.
 
-This project is a starting point for a Flutter application.
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/arghyabandyopadhyay/commissioncalculator)
 
-A few resources to get you started if this is your first Flutter project:
+### All the widgets, modules and models are implemented in Dart
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Contribution Guidelines
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Read our [Contribution Guidelines](CONTRIBUTING.md) before you contribute.
+
+## Community Channel
+
+We're on [Gitter](https://gitter.im/arghyabandyopadhyay/community)! Please join us.
